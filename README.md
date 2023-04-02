@@ -7,6 +7,7 @@ python tool to convert an image to a list of questions
     ```bash
     sudo apt install tesseract-ocr
     sudo apt install libtesseract-dev
+    sudo apt install tesseract-ocr-spa
     ```
 2. Install app requirements
     ```bash
